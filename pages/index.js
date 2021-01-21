@@ -37,7 +37,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header text={'Welcome to the Public Space™'} />
+        <Header text={'Welcome to the Public Space... ... 💥™'} />
         <p className="description">
           We are in a public space, for the people who aren't able to access the super fancy
           members-only area. You hear snobbish laughter in the distance.
